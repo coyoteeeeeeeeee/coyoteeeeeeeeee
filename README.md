@@ -11,8 +11,8 @@ Je suis actuellement à la recherche d'une **alternance** pour mon diplôme d'In
 * **En apprentissage :** Docker, SQL, React
 
 ### 📂 Mes Projets :
-* [L'oeil de Paris](lien-vers-le-depot) : Description courte de ce que ça fait.
-* [Jungle Gap](lien-vers-le-depot) : Un autre projet cool.
+* [L'oeil de Paris]([lien-vers-le-depot](https://github.com/coyoteeeeeeeeee/oeil-de-paris)) : Description courte de ce que ça fait.
+* [Jungle Gap]([lien-vers-le-depot](https://github.com/coyoteeeeeeeeee/jungle-gap)) : Un autre projet cool.
 
 ---
 
