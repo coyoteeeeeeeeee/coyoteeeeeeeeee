@@ -11,8 +11,8 @@ Je suis actuellement à la recherche d'une **alternance** pour mon diplôme d'In
 * **En apprentissage :** Docker, SQL, React
 
 ### 📂 Mes Projets :
-* [Nom du Projet 1](lien-vers-le-depot) : Description courte de ce que ça fait.
-* [Nom du Projet 2](lien-vers-le-depot) : Un autre projet cool.
+* [L'oeil de Paris](lien-vers-le-depot) : Description courte de ce que ça fait.
+* [Jungle Gap](lien-vers-le-depot) : Un autre projet cool.
 
 ---
 
