@@ -1,23 +1,30 @@
 # 👋 Hey, I'm Rayan (coyote)
 
-### Etudiant en Ecole d'Ingénieur
-Je suis actuellement à la recherche d'une **alternance** pour mon diplôme d'Ingénieur à partir de Septembre 2026. 
+Engineering student, not specialized yet, still learning here and there !
+When something isnt done by anyone, I love to build it myself !
+
+# About me
+Currently searching for an apprenticeship in France, preferably in Paris !
+---
+
+### Featured Projects
+
+### [Jungle Gap](https://github.com/coyoteeeeeeeeee/jungle-gap)
+A community app for League of Legends players that loves to work out ! Get a suited routine depending on your in game results.
+Currently only for junglers since it's my most played role !
+Tech stack : Javascript, html, css
+Features : User profiles
+
+### [Recipe Nutrition App](https://github.com/coyoteeeeeeeeee/recipe-nutrition-app)
+A nutrition app allowing users to set goals for their nutrition depending on their body goal, track what they eat, and recipes database !
+Tech stack : TypeScript, Edamame API
+
+### [L'oeil de Paris](https://github.com/coyoteeeeeeeeee/oeil-de-paris)
 
 ---
 
-### 🛠 Ce que je manipule au quotidien :
-* **Langages :** Python, JavaScript, HTML/CSS
-* **Outils :** Git, Linux, VS Code
-* **En apprentissage :** Docker, SQL, React
-
-### 📂 Mes Projets :
-* [L'oeil de Paris]([lien-vers-le-depot](https://github.com/coyoteeeeeeeeee/oeil-de-paris)) : Description courte de ce que ça fait.
-* [Jungle Gap]([lien-vers-le-depot](https://github.com/coyoteeeeeeeeee/jungle-gap)) : Un autre projet cool.
-
----
-
-### 📫 Me contacter :
-* **LinkedIn :** [Rayan BOUAYOUN](https://www.linkedin.com/in/rayanbouayoun/)
+### 📫 Get in touch
+* [Portfolio](https://rayan-bouayoun.vercel.app/)
+* [Linkedin](https://www.linkedin.com/in/rayanbouayoun/)
+* [bouayounrayan@gmail.com](bouayounrayan@gmail.com)
 * **Ville :** Paris 🇫🇷
-
-![Résumé de mon activité GitHub](https://github-readme-stats.vercel.app/api?username=coyoteeeeeeeeee&show_icons=true&theme=tokyonight)
