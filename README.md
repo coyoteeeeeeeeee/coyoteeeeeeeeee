@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rayan (coyote)
 
-⚗️ Engineering student, not specialized yet, still learning here and there !
-🪄 When something isnt done by anyone, I love to build it myself !
+*⚗️ Engineering student, not specialized yet, still learning here and there !
+*🪄 When something isnt done by anyone, I love to build it myself !
 
 # About me
 Currently searching for an apprenticeship in France, preferably in Paris !
