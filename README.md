@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est coyote!
+# 👋 Hey, I'm Rayan (coyote)
 
 ### Etudiant en Ecole d'Ingénieur
 Je suis actuellement à la recherche d'une **alternance** pour mon diplôme d'Ingénieur à partir de Septembre 2026. 
