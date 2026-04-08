@@ -5,10 +5,8 @@ When something isnt done by anyone, I love to build it myself !
 
 # About me
 Currently searching for an apprenticeship in France, preferably in Paris !
----
 
-### Featured Projects
-
+# Featured Projects
 ### [Jungle Gap](https://github.com/coyoteeeeeeeeee/jungle-gap)
 A community app for League of Legends players that loves to work out ! Get a suited routine depending on your in game results.
 Currently only for junglers since it's my most played role !
