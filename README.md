@@ -12,7 +12,6 @@ Currently searching for an apprenticeship in France, preferably in Paris !
 A community app for League of Legends players that loves to work out ! Get a suited routine depending on your in game results.
 Currently only for junglers since it's my most played role !
 Tech stack : Javascript, HTML, CSS
-Features : User profiles
 
 ### 🍉 [Recipe Nutrition App](https://github.com/coyoteeeeeeeeee/recipe-nutrition-app)
 A nutrition app allowing users to set goals for their nutrition depending on their body goal, track what they eat, and recipes database !
